@@ -1,0 +1,14 @@
+Consumer Key (API Key)	pH5zDWsTUXDiBnMuXw572wXMh
+Consumer Secret (API Secret)	DYhwk1H8TgsndIwYjS7R54U0PKvsD7xrvwdDIeWlCcvtuk8FSZ
+Owner	LORDE_ARYEE
+Owner ID	191811785
+
+Access token  191811785-bnW5zJTBRicEcFpe8qHcrhaRUBjj2Sejm9UsL6Jv 
+Access secret 4MfYpVb1miYBN0vHdB31CNWrkZE5Z7t7VOw848Japt7mu
+
+Oauth
+Public Key _CNDqz_KKax04Cx1gmw-KJ76eY0
+Secret Key IjqDe3RkD0E5A77FaUoObePEFe8
+
+
+
