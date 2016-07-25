@@ -1,0 +1,23 @@
+{
+  "name": "twitterproject",
+  "version": "1.0.0",
+  "description": "Twitter Project",
+  "main": "twitter.js",
+  "dependencies": {
+    "twitter": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LORDEARYEE/TwitterProject.git"
+  },
+  "author": "Carl Aryee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LORDEARYEE/TwitterProject/issues"
+  },
+  "homepage": "https://github.com/LORDEARYEE/TwitterProject#readme"
+}
